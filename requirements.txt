@@ -1,0 +1,17 @@
+langchain
+python-dotenv
+streamlit
+unstructured
+tiktoken
+faiss-cpu
+libmagic
+python-magic
+python-magic-bin
+OpenAI 
+huggingface_hub
+langchain-huggingface
+huggingface_hub
+transformers
+accelerate
+bitsandbytes
+langchain
