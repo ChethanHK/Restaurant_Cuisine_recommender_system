@@ -7,7 +7,7 @@ from langchain.chains import SequentialChain
 
 
 llm = HuggingFaceEndpoint(
-    huggingfacehub_api_token="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",
+    huggingfacehub_api_token="token",
     repo_id="mistralai/Mistral-7B-Instruct-v0.2",
     model_kwargs={"max_length": 50},  # Specify valid model arguments here
     temperature=0.6
